@@ -1,0 +1,2 @@
+--Case Statement
+--Case statement is used to compare a value to a set of values
